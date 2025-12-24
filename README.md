@@ -76,6 +76,9 @@ Manual interpretation of Synthetic Aperture Radar (SAR) images is challenging du
 - Fine-tuning improved edge sharpness and reduced color bleeding.
 - Visual outputs closely match ground truth in terms of textures and contours.
 
+  <img width="892" height="594" alt="image" src="https://github.com/user-attachments/assets/6cbb8df6-c10f-4a07-b31f-d179701c505d" />
+
+
 ---
 
 ## 8. How to Run the Project
