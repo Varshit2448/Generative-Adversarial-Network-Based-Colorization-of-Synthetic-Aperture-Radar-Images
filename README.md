@@ -48,6 +48,10 @@ Manual interpretation of Synthetic Aperture Radar (SAR) images is challenging du
 <img width="617" height="672" alt="image" src="https://github.com/user-attachments/assets/2a931dfd-300a-46c9-8245-fc9c2330ee7b" />
 
 
+<img width="889" height="660" alt="image" src="https://github.com/user-attachments/assets/3af03040-c762-4b07-b278-9fe952070f2c" />
+
+
+
 ---
 
 ## 5. Training Details
