@@ -97,5 +97,6 @@ generator = tf.keras.models.load_model(
 
 ## 9. References
 
-1.Liang, Yihuai, et al. "Unpaired medical image colorization using generative adversarial network." Multimedia Tools and Applications 81.19 (2022): 26669-26683.
-2.Chen, Yu, et al. "Exploring efficient and effective generative adversarial network for thermal infrared image colorization." Complex & intelligent systems 9.6 (2023): 7015-7036.
+1.  Liang, Yihuai, et al. "Unpaired medical image colorization using generative adversarial network." Multimedia Tools and Applications 81.19 (2022): 26669-26683.\
+
+2.  Chen, Yu, et al. "Exploring efficient and effective generative adversarial network for thermal infrared image colorization." Complex & intelligent systems 9.6 (2023): 7015-7036.
