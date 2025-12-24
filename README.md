@@ -45,6 +45,9 @@ Manual interpretation of Synthetic Aperture Radar (SAR) images is challenging du
 - Classifies local patches for sharper texture generation.
 - Loss Function: Binary Crossentropy.
 
+<img width="617" height="672" alt="image" src="https://github.com/user-attachments/assets/2a931dfd-300a-46c9-8245-fc9c2330ee7b" />
+
+
 ---
 
 ## 5. Training Details
@@ -90,3 +93,9 @@ generator = tf.keras.models.load_model(
     compile=False
 )
 
+```
+
+## 9. References
+
+Liang, Yihuai, et al. "Unpaired medical image colorization using generative adversarial network." Multimedia Tools and Applications 81.19 (2022): 26669-26683.
+Chen, Yu, et al. "Exploring efficient and effective generative adversarial network for thermal infrared image colorization." Complex & intelligent systems 9.6 (2023): 7015-7036.
